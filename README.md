@@ -1,4 +1,4 @@
-#DynamoDb Migrations
+# DynamoDb Migrations
 
 This repo show how to maintain DynamoDb schemas and data changes under version control.
 
